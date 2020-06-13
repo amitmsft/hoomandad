@@ -28,7 +28,7 @@ Here is a resposiroty of links that you might find useful when you need to read 
 
 [Baby's First Year](https://www.verywellfamily.com/babys-first-year-guide-4173867)
 
-[Month 1-6 Milestones] https://www.babycenter.com/0_baby-milestones-1-to-6-months_1496585.bc?scid=iOS_MPBT_Referral
+[Month 1-6 Milestones](https://www.babycenter.com/0_baby-milestones-1-to-6-months_1496585.bc?scid=iOS_MPBT_Referral)
 
 # Baby Management
 [Baby Hiccups](https://www.healthline.com/health/childrens-health/newborn-hiccups)
@@ -39,7 +39,7 @@ Here is a resposiroty of links that you might find useful when you need to read 
 
 [Nap times: Your child's sleep and nap timeline](https://www.babycenter.com/0_your-childs-sleep-and-nap-timeline_10357001.bc)
 
-[Harvey Karp's "Happiest Baby" method for baby sleep and soothing] (https://www.babycenter.com/0_harvey-karps-happiest-baby-method-for-baby-sleep-and-soothin_10373838.bc)
+[Harvey Karp's Happiest Baby method for baby sleep and soothing](https://www.babycenter.com/0_harvey-karps-happiest-baby-method-for-baby-sleep-and-soothin_10373838.bc)
 
 # Misc
 [Keeping your baby safe in the sun](https://www.babycenter.com/0_how-to-keep-your-baby-safe-in-the-sun_421.bc)
@@ -48,7 +48,7 @@ Here is a resposiroty of links that you might find useful when you need to read 
 
 [Poop Guide](https://www.parents.com/baby/diapers/dirty/the-scoop-on-poop-whats-normal-whats-not/) **comment**: For their size, babies do poop a lot. You will be surprised. :)
 
-[Baby Poop Guide] (https://www.thebump.com/a/baby-poop) **comment**: Yes, we spent a lot of time researching poop!
+[Baby Poop Guide](https://www.thebump.com/a/baby-poop) **comment**: Yes, we spent a lot of time researching poop!
 
 [Infant Diarrhea](https://www.webmd.com/parenting/baby/baby-diarrhea-causes-treatment)
 
@@ -58,6 +58,7 @@ Here is a resposiroty of links that you might find useful when you need to read 
 
 # Car Seat
 [Car Seat Guidance](https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/carseat-recommendations-for-children-by-age-size.pdf)
+
 [Car Seat Buying Guide](https://thecarseatlady.com/car-seat-buying-guide/)
 
 # Interacting with your baby
@@ -67,7 +68,7 @@ Here is a resposiroty of links that you might find useful when you need to read 
 [Doctor visit: The 1-month checkup](https://www.babycenter.com/0_doctor-visit-the-1-month-checkup_6599.bc)
 
 # Survival Tips
-[Parents say: 8 ways for new parents to get more sleep] (https://www.babycenter.com/0_parents-say-8-ways-for-new-parents-to-get-more-sleep_7750.bc)
+[Parents say: 8 ways for new parents to get more sleep](https://www.babycenter.com/0_parents-say-8-ways-for-new-parents-to-get-more-sleep_7750.bc)
 
 [Cooking meals is a chore and get your friends and family to sign up for a meal train for adult meals. The parents need to stay healthy to care for the baby](https://www.mealtrain.com/)
 
