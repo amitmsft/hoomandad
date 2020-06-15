@@ -1,4 +1,4 @@
-Here is a resposiroty of links that you might find useful when you need to read up on caring for infant. These are all the useful links that we referenced while managing (aka caring) for the little human.
+This is a respository of links that you might find useful when you need to read up on caring for infant. This is primarily geared towards infant management for 0-3 months of age. We found these links useful and referenced them multiple times while managing (aka caring) for our adorable little human.
 
 # Baby Feeding and Growth
 ### Formula feeding
@@ -40,6 +40,10 @@ Here is a resposiroty of links that you might find useful when you need to read 
 [Nap times: Your child's sleep and nap timeline](https://www.babycenter.com/0_your-childs-sleep-and-nap-timeline_10357001.bc)
 
 [Harvey Karp's Happiest Baby method for baby sleep and soothing](https://www.babycenter.com/0_harvey-karps-happiest-baby-method-for-baby-sleep-and-soothin_10373838.bc)
+
+[Baby Crying sound meanings](https://www.whattoexpect.com/first-year/week-10/decoding-cries.aspx)
+
+[How to burp your baby](https://www.babycenter.com/0_how-to-burp-your-baby_10363676.bc) **comment**: This is very important and every baby behaves differently to when and how they burp. If you have not become a parent, then it will sound astounding but you will figure out when you need to burp your baby. If this were a job, it would be a skill acquired with experience. 
 
 # Misc
 [Keeping your baby safe in the sun](https://www.babycenter.com/0_how-to-keep-your-baby-safe-in-the-sun_421.bc)
