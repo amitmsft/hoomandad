@@ -1,4 +1,4 @@
-Here is a resposiroty of links that you might find useful when you need to read up on caring for infant. These are all the useful links that we referenced while managing (aka caring) for the little human.
+Here is a respository of links that you might find useful when you need to read up on caring for infant. These are all the useful links that we referenced while managing (aka caring) for the little human.
 
 # 0-3 months
 If you are parenting during COVID-19 times, then you can use all the online help that you can get. This is the set of links that helped us a lot during our first three months.
